@@ -19,5 +19,9 @@ public class Review {
 
     @DBRef
     private Movie movie;
+
+    public Review (String body){
+        this.body = body;
+    }
     
 }
