@@ -1,0 +1,10 @@
+/Users/navindissanayaka/Desktop/Project/Spring Boot/Movies-spring-boot/backend/src/main/java/com/example/movies/Movie.java
+/Users/navindissanayaka/Desktop/Project/Spring Boot/Movies-spring-boot/backend/src/main/java/com/example/movies/MovieController.java
+/Users/navindissanayaka/Desktop/Project/Spring Boot/Movies-spring-boot/backend/src/main/java/com/example/movies/MovieRepository.java
+/Users/navindissanayaka/Desktop/Project/Spring Boot/Movies-spring-boot/backend/src/main/java/com/example/movies/MovieService.java
+/Users/navindissanayaka/Desktop/Project/Spring Boot/Movies-spring-boot/backend/src/main/java/com/example/movies/MoviesApplication.java
+/Users/navindissanayaka/Desktop/Project/Spring Boot/Movies-spring-boot/backend/src/main/java/com/example/movies/Review.java
+/Users/navindissanayaka/Desktop/Project/Spring Boot/Movies-spring-boot/backend/src/main/java/com/example/movies/ReviewController.java
+/Users/navindissanayaka/Desktop/Project/Spring Boot/Movies-spring-boot/backend/src/main/java/com/example/movies/ReviewRepository.java
+/Users/navindissanayaka/Desktop/Project/Spring Boot/Movies-spring-boot/backend/src/main/java/com/example/movies/ReviewService.java
+/Users/navindissanayaka/Desktop/Project/Spring Boot/Movies-spring-boot/backend/src/main/java/com/example/movies/config/CorsConfig.java
